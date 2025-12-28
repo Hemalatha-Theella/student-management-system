@@ -20,4 +20,4 @@ A console-based Java application to manage student records.
 2. Run:
 3.  java StudentManagementSystem
 ## output Screenshot
-![Project Output]{output.jpg)
+![Project Output](output.jpg)
