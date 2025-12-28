@@ -18,4 +18,6 @@ A console-based Java application to manage student records.
 1. Compile:
    javac Student.java StudentManagementSystem.java
 2. Run:
-   java StudentManagementSystem
+3.  java StudentManagementSystem
+## output Screenshot
+![Project Output]{output.jpg)
